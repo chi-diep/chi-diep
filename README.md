@@ -27,7 +27,7 @@
 
 <hr style="border: 0.5px dashed #B97C86; margin: 30px 0;" />
 
-<h2 align="center">My Introductory</h2>
+<h2 align="center"> My Introduction </h2>
 
 <p align="center">──────── ❧ ────────</p>
 
