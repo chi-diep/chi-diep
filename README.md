@@ -77,7 +77,62 @@
 <p align="center">──────── ❧ ────────</p>
 
 <p align="center">🐾 <b>Fun Fact</b></p>
-<p align="center">
-I love cats and painting.
+<p align="center"> I love cats and enjoy painting.
 </p>
 </div>
+
+<h2 align="center"> Tech Stack </h2>
+<p align="center">──────── ❧ ────────</p>
+
+<h4 align="center">✧ Programming & Tools ✧</h4>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" height="40" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftazure.svg" height="40" title="Azure"/>
+</p>
+
+<p align="center">──────── ❧ ────────</p>
+
+<h4 align="center">✧ AI/ML & Frameworks ✧</h4>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+ <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scikitlearn.svg" height="40" title="Scikit-Learn"/>
+</p>
+
+<p align="center">──────── ❧ ────────</p>
+
+<h4 align="center">✧ Data Analytics & Visualization ✧</h4>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tableau.svg" height="40" title="Tableau"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/powerbi.svg" height="40" title="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+</p>
+
+<p align="center">──────── ❧ ────────</p>
+
+<h4 align="center">✧ Systems & Platforms ✧</h4>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+</p>
+
+<p align="center">──────── ❧ ────────</p>
+
+<h4 align="center">✧ Other Competencies ✧</h4>
+<p align="center">
+AI Engineering • Data Engineering • Database Management • System Analysis • Statistical Analysis
+</p>
