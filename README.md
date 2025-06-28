@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=4000&pause=1000&color=B97C86&vCenter=true&width=650&lines=Designing+tomorrow's+intelligence+with+yesterday's+compassion..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=4000&pause=1000&color=B97C86&vCenter=true&width=700&lines=Designing+tomorrow's+intelligence+with+yesterday's+compassion..." />
 </p>
 
 <p align="center">
